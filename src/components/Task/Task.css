@@ -1,0 +1,17 @@
+.container__task {
+    border-bottom: 0.1rem solid rgb(255, 255, 255);
+    font-size: 0.9rem;
+    background-color: #ffc7c7;
+    width: 100%;
+}
+.text__task {
+    font-weight: 400;
+    text-align: start;
+}
+.text__task--name {
+    color: black;
+}
+.text__task--description {
+    color: rgb(97 97 97);
+    margin-top: 0.3rem;
+}

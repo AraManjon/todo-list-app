@@ -1,0 +1,17 @@
+.main {
+  background-color: #ff1f1f;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.title {
+  color: #f6e2e2;
+  margin: 1rem;
+  font-size: 2rem;
+  font-weight: 600;
+}
