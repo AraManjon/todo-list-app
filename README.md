@@ -21,8 +21,13 @@ To up server from the terminal
 > Visti localhost:3000 
 
 //TO-DO
+
 HandleError
+
 Loading spinners
+
 Delete input
+
 move isAddedTask and isNewTask in context
+
 Create date functionality
